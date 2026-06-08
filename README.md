@@ -24,7 +24,7 @@ This is a Python CLI application that places orders on the Binance Futures Testn
    ```
 
 4. **Set up API Credentials:**
-   - Rename `.env.example` to `.env`.
+   - Create a `.env` file in the root directory.
    - Add your Binance Futures Testnet API Key and Secret.
    ```
    BINANCE_API_KEY=your_api_key
